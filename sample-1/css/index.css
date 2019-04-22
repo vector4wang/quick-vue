@@ -1,0 +1,45 @@
+html, body {
+    margin:0;
+    padding:0;
+}
+
+.row{
+}
+
+#top {
+    height: 200px;
+}
+
+#center{
+    height: 500px;
+}
+
+#bottom{
+    height: 200px;
+}
+
+#tab1{
+    position: relative;
+}
+
+#d1{
+    background: #5bc0de;
+    width: 20%;
+    height: 100px;
+}
+
+#d2{
+    background: #5cb85c;
+    width: 20%;
+    height: 100px;
+    top: 100px;
+    margin-left: 40%;
+}
+
+#d3{
+    background: #46b8da;
+    position: absolute;
+    right: 0%;
+    width: 20%;
+    height: 100px;
+}
